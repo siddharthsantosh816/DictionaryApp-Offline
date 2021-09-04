@@ -1,1 +1,1 @@
-# DictionaryApp-Offline
+# DictionaryApp-Offline by Siddharth
